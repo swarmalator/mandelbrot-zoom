@@ -25,5 +25,7 @@ maximum.
 ![zoom3](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom3.png)
 ![zoom4](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom4.png)
 ![zoom5](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom5.png)
+![zoom6](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom6.png)
+![zoom7](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom7.png)
 
 

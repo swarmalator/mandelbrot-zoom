@@ -19,7 +19,7 @@ rgbcolor r g b = makeColor r g b 1.0
 smoothcolor :: Complex Float -> Int -> Int -> Color
 smoothcolor _ 0 _ = black
 smoothcolor z n max = (uncurryRGB rgbcolor) $ hsv deg 1 1 
-  where deg = 360 * ((fromIntegral n) + 1.0 - (log (log (magnitude z))) / (log 2)) / (fromIntegral max)
+  where deg = 360 * ((fromIntegral n) - 1.0 + (log (log (magnitude z))) / (log 2)) / (fromIntegral max)
   
 colorof :: Int -> Point -> Color
 colorof max (x,y) = let (z, n) = mandelbrot 0 (x :+ y) max
