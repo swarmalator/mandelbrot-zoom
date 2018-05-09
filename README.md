@@ -27,5 +27,6 @@ maximum.
 ![zoom5](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom5.png)
 ![zoom6](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom6.png)
 ![zoom7](https://github.com/swarmalator/mandelbrot-zoom/blob/master/images/zoom7.png)
+
 This project is licensed under the terms of the MIT license.
 
