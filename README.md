@@ -2,12 +2,6 @@
 
 Interactive zoom and pan rendering of a colorful mandelbrot set.
 
-## Compile (GHC)
-
-1. Download and extract anywhere
-2. Open terminal in directory containing 'mandelbrot.hs'
-3. Type: runhaskell mandelbrot.hs
-
 ## Instructions
 
 Drag and scroll the image of the mandelbrot set to view. The program
